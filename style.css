@@ -1,0 +1,30 @@
+body{
+	background-color: grey;
+}
+
+p {
+	color: blue;
+}
+
+h1{
+	color: red;
+}
+
+.first-paragraph{
+	color: green;
+}
+
+img {
+	width: 400px;
+	border-style: dotted;
+    border-width: medium;
+}
+
+.size {
+	font-size: 80px;
+}
+.font 
+	{
+	font-size: 45px;
+	font-family: sans-serif;
+}
