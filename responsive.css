@@ -109,7 +109,17 @@ p {
 	}
 
 .flyers, .sixers, .eagles {
-	height: 200px;
+	height: 300px;
 	width: 300px;
 	}
+
+.byzantine {
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIjwIZ-Z73utQlVPUSe6aq11tVjpopFN4tZ3ILk1d8tdGwa1VrQ");
+	height: 400px;
+	width: 400px;
+	float: left;
+	background-image: no-repeat;
+	background-size: 100% 100%;
+	}
+
 }
